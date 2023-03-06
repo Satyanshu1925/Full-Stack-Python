@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.art{
+    margin: auto;
+    padding: auto;
+}
+td{
+    background-color: black;
+    height: 200px;
+    width: 130px;
+    border: 6px solid white;
+}
+#one{
+    background-color: #DAD2D8;
+}
+#two{
+    background-color: #325FA2;
+}
+#three{
+    background-color: #143642;
+}
+#four{
+    background-color: #EC9A29;
+}
+#five{
+    background-color: #A8201A;
+}
