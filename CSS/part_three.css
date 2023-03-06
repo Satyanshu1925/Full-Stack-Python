@@ -18,3 +18,8 @@ h3 + ul{
 li a{
     color: burlywood;
 }
+
+li a[href="https://google.com/"] {
+    color: rgb(245, 11, 11);
+    border: 3px solid;
+}
